@@ -1,6 +1,6 @@
 # Lista original com números variados
 lista = [2, 5, 8, 9, 12, 15, 18]
-
+ 
 # Lista que armazenará os números menores ou iguais a 15
 nova_lista = []
 
