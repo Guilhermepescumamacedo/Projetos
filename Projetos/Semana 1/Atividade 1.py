@@ -6,7 +6,7 @@ import random
 
 vida = 10
 arvores = 0
-
+ 
 for hora in range(3): # 3 horas
     print(f"\nHora {hora+1}: O lenhador cortou uma árvore.")
     print("O goblin apareceu!")
