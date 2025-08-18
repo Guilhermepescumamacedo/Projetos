@@ -4,7 +4,7 @@
 
 import random
 
-vida = 10
+vida = 10 
 arvores = 0
  
 for hora in range(3): # 3 horas
